@@ -1,2 +1,2 @@
 # Pedro Henrique
- Primeiro repositorio do curso GIT E GITHUB
+ Primeiro repositório do curso Git E GitHub
